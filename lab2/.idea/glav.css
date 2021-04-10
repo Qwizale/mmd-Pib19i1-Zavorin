@@ -1,0 +1,151 @@
+*{
+    margin: 0;
+    padding: 0;
+    cursor: url("Фон/_arrow.png"),pointer;
+}
+html {
+    background-color: #36393E;
+
+}
+header {
+    background:  url("Фон/header.jpg") no-repeat;
+    display:flex ;
+    flex-direction: column;
+}
+.title  {
+    text-align: center;
+    color: orange;
+    -webkit-text-stroke-width: 1.5px;
+    -webkit-text-stroke-color: black;
+    font-family:sans-serif
+
+}
+a.buttons {
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    padding-top: 9px;
+    text-align: center;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    color: #dd9400;
+    background: #1d1d1d;
+    margin-bottom: 15px;
+
+}
+
+a.buttons:not(:hover) {
+    transition: 0.6s;
+}
+
+a.buttons2
+{
+    width: 150px;
+    height: 30px;
+    border-radius: 20px;
+    text-decoration: none;
+    padding-top: 9px;
+    text-align: center;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+    color: #dd9400;
+    background: #1d1d1d;
+    margin-bottom: 15px;
+
+}
+
+a.buttons2:not(:hover) {
+    transition: 0.6s;
+}
+
+.single-page-two {
+    margin-top: 10px;
+    background: #282525;
+    padding: 2%;
+    border: 1px solid #312f2b;
+    border-radius: 2px;
+
+}
+.title2 {
+
+    color: #dd9400;
+    text-align: left;
+    font-weight: 400;
+    display: block;
+    font-family: 'Roboto', sans-serif;
+
+}
+.single-page-two span {
+    color: #eee6e3;
+    font-family: 'Roboto', sans-serif;
+}
+
+.single-page-three{
+    margin-top: 20px;
+    background: #282525;
+    padding: 2%;
+    border: 1px solid #312f2b;
+    border-radius: 2px;
+}
+.artical-content img {
+    float: left;
+    margin: 0 20px 0 0;
+}
+
+img {
+
+    max-width: 100%;
+}
+.artical-content h4 {
+    margin-top: 20px;
+    font: 400 24px/24px 'Open Sans', sans-serif;
+    color: #e99c00;
+
+}
+.artical-content span {
+    color: #8d6001;
+}
+.wrap span {
+    font-size: 0.9em;
+    position: relative;
+    top: 0.5em;
+}
+.artical-content p {
+    font: normal 16px/26px 'Open Sans', sans-serif,Helvetica,sans-serif;
+    color: #9b9b9b;
+    padding: 17px 0px;
+    font-weight: 400;
+}
+.button-two, .button-two:visited {
+    background: #dd9400;
+    color: #000;
+    display: inline-block;
+    text-decoration: none;
+    letter-spacing: 0;
+    padding: 6px 10px 6px 10px;
+    margin: 0 0 8px 0;
+    border: none;
+    height: auto;
+    border-radius: 3px;}
+
+footer{
+    color: #dd9400;
+    background: #1d1d1d;
+    flex:  auto;
+}
+
+@media screen and (max-width: 720px) {
+
+    nav {
+        display: flex;
+        justify-content: space-around;
+    }
+img{
+    margin-left: 40px;
+}
+
+     h4{
+         margin-right: 100px;
+     }
+}
