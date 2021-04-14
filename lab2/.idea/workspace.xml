@@ -14,6 +14,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -27,9 +28,12 @@
   </component>
   <component name="ProjectId" id="1pNBTNyQnmwpglek4eKYAJ9sqsu" />
   <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="flattenModules" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -37,17 +41,30 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="lab2" />
       <option name="VM_PARAMETERS" />
@@ -110,7 +127,22 @@
       <workItem from="1615130564142" duration="1631000" />
       <workItem from="1615190405169" duration="5468000" />
       <workItem from="1615463014617" duration="10220000" />
-      <workItem from="1615557096633" duration="1683000" />
+      <workItem from="1615557096633" duration="2344000" />
+      <workItem from="1617715682712" duration="4458000" />
+      <workItem from="1617728907990" duration="3347000" />
+      <workItem from="1617732391219" duration="3105000" />
+      <workItem from="1617772800173" duration="3025000" />
+      <workItem from="1617775926972" duration="4763000" />
+      <workItem from="1617789774941" duration="6585000" />
+      <workItem from="1617796463228" duration="2969000" />
+      <workItem from="1617863357893" duration="5544000" />
+      <workItem from="1617870541768" duration="596000" />
+      <workItem from="1617871194747" duration="5287000" />
+      <workItem from="1617880608902" duration="1970000" />
+      <workItem from="1617882649534" duration="1030000" />
+      <workItem from="1617970538496" duration="15872000" />
+      <workItem from="1618028248117" duration="1215000" />
+      <workItem from="1618064906408" duration="422000" />
     </task>
     <servers />
   </component>
